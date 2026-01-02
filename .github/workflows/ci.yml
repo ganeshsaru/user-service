@@ -1,4 +1,4 @@
-name: User-Service Backend API Pipeline
+name: User-Service Backend API CI Pipeline
 
 on:
   push:
